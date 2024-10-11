@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-img {
+  transition: all  1s;
+  animation: scaleImage 5s linear infinite;
+}
